@@ -1,0 +1,59 @@
+
+body{
+  background: linear-gradient(180deg, #d9ff7e 0%, #b3ff93 100%);
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 120px;
+  align-items: center;
+  height: 620px;
+  width: 30%;
+  background-color: #ffffff;
+  border-radius: 10%;
+}
+.social{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 25px;
+}
+
+.formIngreso{
+  margin-top: 100px;
+  height: 200px;
+  width: 100%;
+  align-content: center;
+}
+
+.formIngresoDiv h1{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.footer-icon {
+  display: flex; 
+  justify-content: space-around;
+  margin-bottom: 25px;
+}
+.footer-icon:hover {
+  transform: scale(1.2); 
+  cursor: pointer; 
+}
+
+
+
+
+.formIngresoDiv .mensaje{
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.infoPersona {
+  margin-top: 20px;
+}
