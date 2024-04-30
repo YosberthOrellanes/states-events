@@ -1,4 +1,4 @@
-
+la entrega fue individual
 https://yosberthorellanes.github.io/states-events/
 # React + Vite
 
